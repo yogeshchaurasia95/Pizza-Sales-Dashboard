@@ -15,3 +15,5 @@ Insights:
 📅 Days: Highest orders on weekends, especially Friday/Saturday evenings.
 📆 Months: Maximum orders in Jan, Mar, May, & July.
 🍕 Category: Classic Pizza rules as the highest seller.
+
+Project Link - https://drive.google.com/file/d/19N5rwP_pylH3xlwwCdR6HhP7GigRMZZ6/view?usp=sharing
